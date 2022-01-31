@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="18f44196-a8a3-4663-9cb0-a4cdf52612dc" name="Hibernate Tutorial" url="jdbc:jtds:sqlserver://localhost/instanceName=SQLEXPRESS;databaseName=test_hibernate" driverClass="net.sourceforge.jtds.jdbc.Driver" />
+    </data-sources>
+  </component>
+</project>
